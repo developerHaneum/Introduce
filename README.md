@@ -5,7 +5,7 @@
 웹 브라우저에서 [haneum-introduce](https://haneum-introduce.netlify.app)로 접속하여 읽어주세요!
 
 ## 버전
-현재 버전: **v1.0**
+현재 버전: **v1.1**
 
 ## 라이센스
 MIT License를 사용해요!
