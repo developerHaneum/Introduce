@@ -17,8 +17,7 @@
 }
 
 img {
-    border: 3px solid black;
-    border-radius: 30px;
+    border: 1.5px solid black;
 
     display: block;
     margin-left: auto;
@@ -55,7 +54,7 @@ a:visited {
 
 a:hover {
     text-decoration: none;
-    color:cadetblue;
+    color:crimson;
 }
 
 a:active {
